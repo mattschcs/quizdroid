@@ -1,1 +1,1 @@
-QuizDroid (Basics) 
+Quizdroid
