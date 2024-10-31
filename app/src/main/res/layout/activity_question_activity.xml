@@ -7,9 +7,6 @@
     android:layout_height="match_parent"
     tools:context=".QuestionActivity">
 
-
-    <!-- RadioGroup for answer choices -->
-
     <TextView
         android:id="@+id/questionTextView"
         android:layout_width="wrap_content"
@@ -30,33 +27,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent">
 
-        <!-- Four RadioButtons for the answers -->
-<!--        <RadioButton-->
-<!--            android:id="@+id/radioButton1"-->
-<!--            android:layout_width="wrap_content"-->
-<!--            android:layout_height="wrap_content"-->
-<!--            android:text="Answer 1" />-->
-
-<!--        <RadioButton-->
-<!--            android:id="@+id/radioButton2"-->
-<!--            android:layout_width="wrap_content"-->
-<!--            android:layout_height="wrap_content"-->
-<!--            android:text="Answer 2" />-->
-
-<!--        <RadioButton-->
-<!--            android:id="@+id/radioButton3"-->
-<!--            android:layout_width="wrap_content"-->
-<!--            android:layout_height="wrap_content"-->
-<!--            android:text="Answer 3" />-->
-
-<!--        <RadioButton-->
-<!--            android:id="@+id/radioButton4"-->
-<!--            android:layout_width="wrap_content"-->
-<!--            android:layout_height="wrap_content"-->
-<!--            android:text="Answer 4" />-->
     </RadioGroup>
-
-    <!-- Submit button initially hidden until an option is selected -->
     <Button
         android:id="@+id/submitButton"
         android:layout_width="wrap_content"
