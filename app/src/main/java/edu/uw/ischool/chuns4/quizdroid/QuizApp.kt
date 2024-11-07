@@ -4,7 +4,7 @@ import android.app.Application
 import android.util.Log
 
 class QuizApp : Application() {
-    val TAG = QuizApp::class.java.canonicalName
+    val TAG = QuizApp::class.java.name
     lateinit var topicRepository: TopicRepositoryInterface
 
     override fun onCreate() {

@@ -38,7 +38,7 @@ class topicOverview : AppCompatActivity() {
         beginButton = findViewById(R.id.begin_button)
         beginButton.setOnClickListener {
             val quizIntent = Intent(this, QuestionActivity::class.java)
-            quizIntent.putExtra("topicName", subjectName) // Pass the topic name
+            quizIntent.putExtra("topicName", subjectName)
             startActivity(quizIntent)
         }
     }
