@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">quizdroid</string>
+    <string name="minutes_for_checking_downloads">minutes for checking downloads</string>
+</resources>

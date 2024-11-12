@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Math",
+    "shortDescription": "Basic math questions",
+    "longDescription": "A collection of questions covering basic mathematical concepts.",
+    "questionsList": [
+      {
+        "questionText": "What is 5 + 7?",
+        "answers": ["10", "11", "12", "14"],
+        "correctQuestionIndex": 2
+      },
+      {
+        "questionText": "What is the square root of 49?",
+        "answers": ["6", "7", "8", "9"],
+        "correctQuestionIndex": 1
+      },
+      {
+        "questionText": "What is 15 divided by 3?",
+        "answers": ["3", "5", "7", "9"],
+        "correctQuestionIndex": 1
+      },
+      {
+        "questionText": "What is 3 * 6?",
+        "answers": ["9", "12", "15", "18"],
+        "correctQuestionIndex": 3
+      },
+      {
+        "questionText": "What is 9 squared?",
+        "answers": ["72", "81", "90", "99"],
+        "correctQuestionIndex": 1
+      }
+    ]
+  },
+  {
+    "title": "Physics",
+    "shortDescription": "Fundamental physics questions",
+    "longDescription": "A set of questions that test your knowledge of physics principles and facts.",
+    "questionsList": [
+      {
+        "questionText": "What is the unit of force?",
+        "answers": ["Joule", "Pascal", "Newton", "Watt"],
+        "correctQuestionIndex": 2
+      },
+      {
+        "questionText": "What is the acceleration due to gravity on Earth?",
+        "answers": ["9.8 m/s²", "10 m/s²", "15 m/s²", "5 m/s²"],
+        "correctQuestionIndex": 0
+      },
+      {
+        "questionText": "Which subatomic particle has a negative charge?",
+        "answers": ["Proton", "Neutron", "Electron", "Photon"],
+        "correctQuestionIndex": 2
+      },
+      {
+        "questionText": "What does E=mc² represent?",
+        "answers": ["Newton's law", "Einstein's mass-energy equivalence", "Thermodynamics", "Quantum Mechanics"],
+        "correctQuestionIndex": 1
+      },
+      {
+        "questionText": "What is the speed of light?",
+        "answers": ["150,000 km/s", "300,000 km/s", "500,000 km/s", "1,000,000 km/s"],
+        "correctQuestionIndex": 1
+      }
+    ]
+  },
+  {
+    "title": "Marvel Super Heroes",
+    "shortDescription": "Questions on Marvel superheroes",
+    "longDescription": "Test your knowledge on Marvel superheroes, their powers, and their universe.",
+    "questionsList": [
+      {
+        "questionText": "Who is Tony Stark?",
+        "answers": ["Captain America", "Iron Man", "Thor", "Hulk"],
+        "correctQuestionIndex": 1
+      },
+      {
+        "questionText": "What is the name of Thor's hammer?",
+        "answers": ["AK-47", "Mjolnir", "Excalibur", "Gungnir"],
+        "correctQuestionIndex": 1
+      },
+      {
+        "questionText": "Which metal is used to make Captain America’s shield?",
+        "answers": ["Iron", "Adamantium", "Vibranium", "Steel"],
+        "correctQuestionIndex": 2
+      },
+      {
+        "questionText": "Who is Peter Parker's superhero identity?",
+        "answers": ["Superman", "Iron Man", "Batman", "Spider-Man"],
+        "correctQuestionIndex": 3
+      },
+      {
+        "questionText": "Who is the king of Wakanda?",
+        "answers": ["T'Challa", "Tony Stark", "Steve Rogers", "Bruce Banner"],
+        "correctQuestionIndex": 0
+      }
+    ]
+  },
+  {
+    "title": "History",
+    "shortDescription": "Historical events and figures",
+    "longDescription": "A compilation of questions on major events, people, and dates in history.",
+    "questionsList": [
+      {
+        "questionText": "Who was the first President of the United States?",
+        "answers": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
+        "correctQuestionIndex": 1
+      },
+      {
+        "questionText": "In what year did World War II end?",
+        "answers": ["1942", "1945", "1950", "1955"],
+        "correctQuestionIndex": 1
+      },
+      {
+        "questionText": "Which civilization built the Pyramids?",
+        "answers": ["Romans", "Greeks", "Egyptians", "Aztecs"],
+        "correctQuestionIndex": 2
+      },
+      {
+        "questionText": "Who was known as the 'Maid of Orleans'?",
+        "answers": ["Cleopatra", "Joan of Arc", "Queen Victoria", "Marie Curie"],
+        "correctQuestionIndex": 1
+      },
+      {
+        "questionText": "Who discovered America in 1492?",
+        "answers": ["Vasco da Gama", "Christopher Columbus", "Marco Polo", "Ferdinand Magellan"],
+        "correctQuestionIndex": 1
+      }
+    ]
+  },
+  {
+    "title": "Biology",
+    "shortDescription": "Basic biology concepts",
+    "longDescription": "Explore fundamental concepts in biology, including cell biology and plant physiology.",
+    "questionsList": [
+      {
+        "questionText": "What is the powerhouse of the cell?",
+        "answers": ["Nucleus", "Mitochondria", "Ribosome", "Cell wall"],
+        "correctQuestionIndex": 1
+      },
+      {
+        "questionText": "Which gas do plants absorb from the atmosphere?",
+        "answers": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"],
+        "correctQuestionIndex": 1
+      },
+      {
+        "questionText": "What pigment gives plants their green color?",
+        "answers": ["Hemoglobin", "Chlorophyll", "Carotene", "Melanin"],
+        "correctQuestionIndex": 1
+      },
+      {
+        "questionText": "Which organ pumps blood through the body?",
+        "answers": ["Liver", "Lungs", "Heart", "Kidney"],
+        "correctQuestionIndex": 2
+      },
+      {
+        "questionText": "What is the basic unit of life?",
+        "answers": ["Tissue", "Organ", "Organ System", "Cell"],
+        "correctQuestionIndex": 3
+      }
+    ]
+  }
+]
